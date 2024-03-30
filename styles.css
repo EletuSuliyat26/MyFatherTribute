@@ -1,0 +1,38 @@
+h1{
+  color: black;
+} 
+
+body{
+  background-color: beige;
+}
+.aabouts{
+  text-align: center;
+  
+  /* background-color: black; */
+}
+.tribute{
+  text-align: center;
+  /*background-color:  black; */
+  width: 80%;
+   border: 1px solid;
+   margin: 0 auto;
+}
+img{
+  width: 100%;
+  height: 40%px;
+}
+.adiguntribute{
+  border: 2px solid lawngreen;
+  max-width: 500px;
+  margin: 0 auto;
+  padding: 16px;
+  border-radius: 16px;
+  background-color: white;
+}
+.aabouts{
+  font-size: larger;
+}
+p{
+  font-size: large;
+font-variant: normal;
+}
